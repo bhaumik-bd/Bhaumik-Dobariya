@@ -3,7 +3,6 @@
 <h3 align="center">DevOps Engineer focused on automation and cloud technologies for efficiency.</h3>
 
 
-<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops\&label=Profile%20views\&color=0e75b6\&style=flat" alt="amanpathak-devops" /> </p>
 
